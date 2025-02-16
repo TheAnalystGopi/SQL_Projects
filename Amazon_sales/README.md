@@ -22,20 +22,6 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-## **Task: Data Cleaning**
-
-I cleaned the dataset by:
-- **Removing duplicates**: Duplicates in the customer and order tables were identified and removed.
-- **Handling missing values**: Null values in critical fields (e.g., customer address, payment status) were either filled with default values or handled using appropriate methods.
-
----
-
-## **Handling Null Values**
-
-Null values were handled based on their context:
-- **Customer addresses**: Missing addresses were assigned default placeholder values.
-- **Payment statuses**: Orders with null payment statuses were categorized as “Pending.”
-- **Shipping information**: Null return dates were left as is, as not all shipments are returned.
 
 ---
 
