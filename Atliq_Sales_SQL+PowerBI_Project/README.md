@@ -4,7 +4,9 @@
 
 Analysis of revenue sources is essential as the in-house sales team aims to prioritize high-revenue-generating products. Additionally, the marketing team plans to launch new campaigns targeting regions with moderate sales performance, anticipating a 15% increase in sales as a result of these initiatives. Thus, this analysis comes in the picture.
 
-Dashboard()
+
+![Screenshot 2025-02-17 113230](https://github.com/user-attachments/assets/c6e458f0-c041-4cbe-b9cc-f75852dda231)
+
 
 ## learning outcomes
 - Only few of the products are performing well in every market
